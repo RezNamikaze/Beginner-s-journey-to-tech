@@ -1,2 +1,2 @@
-# Beginner-s-journey-to-tech
-My first landing page with great use of aesthetics from CSS
+# Beginners blog
+My first landing page with use of aesthetics from CSS
